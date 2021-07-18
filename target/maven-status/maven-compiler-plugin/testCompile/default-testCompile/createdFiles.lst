@@ -1,0 +1,10 @@
+pom_inetbanking_objectrepositry\Pom_Loginpage.class
+pom_testcases\BaseClass.class
+pom_utilities\UtilityXL.class
+pom_testcases\TestCase_01.class
+pom_testcases\TestCase_03.class
+pom_testdata\Configuration.class
+pom_inetbanking_objectrepositry\Pom_inetbanking_editcustomer.class
+pom_inetbanking_objectrepositry\Pom_addcustomer.class
+pom_testcases\TestCase_02.class
+pom_utilities\TestList.class
